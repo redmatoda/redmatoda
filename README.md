@@ -38,3 +38,24 @@
 - 기본 CRUD 구현
 
 🔗 Repo: [바로가기][(https://github.com/codeitPart2Team4/Findex)
+
+## 🛠 Tech Stack
+
+### Backend
+- Java, Spring Boot
+- Spring Data JPA, QueryDSL
+
+### Database / Cache
+- MySQL
+- Redis
+
+### Infrastructure
+- AWS ECS
+- Docker
+- CloudWatch
+
+### Tool
+- Git, GitHub
+- Postman
+- IntelliJ
+
