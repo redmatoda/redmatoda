@@ -15,7 +15,7 @@
 - ECS 배포 502/504 오류 해결
 - 서비스 요구사항 분석을 기반으로 ERD 및 DB 스키마 설계 수행
 
-🔗 Repo: [바로가기](링크)
+🔗 Repo: [바로가기](https://github.com/sb5-part3-team6/sb5-deokhugam-team6)
 
 ## ⚙️ Intermediate Project | 덕후감
 
@@ -37,4 +37,4 @@
 - REST API 설계 경험
 - 기본 CRUD 구현
 
-🔗 Repo: [바로가기](링크)
+🔗 Repo: [바로가기][(https://github.com/codeitPart2Team4/Findex)
