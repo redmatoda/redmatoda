@@ -37,7 +37,7 @@
 - REST API 설계 경험
 - 기본 CRUD 구현
 
-🔗 Repo: [바로가기][(https://github.com/codeitPart2Team4/Findex)
+🔗 Repo: [바로가기](https://github.com/codeitPart2Team4/Findex)
 
 ## 🛠 Tech Stack
 
