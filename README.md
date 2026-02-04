@@ -1,3 +1,10 @@
+# 김동규 | Backend Developer
+
+서비스 안정성과 성능 개선 경험을 보유한 신입 백엔드 개발자입니다.
+
+📧 Email: redmatoda1@gmail.com  
+🔗 GitHub: https://github.com/redmatoda
+
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Donggyu's Github </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 성장하는 개발자 김동규입니다. </div> 
